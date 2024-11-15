@@ -45,6 +45,35 @@ Para la creación de esta máquina en mi caso le pondremos como nombre0
 **meta-cibera07** con una memoria RAM de **1024 MB** con **1** procesador dentro
 de la distribución **Other Linux** y lo meteremos dentro de nuestra red Nat en mi caso denominada haj
 
+### Creación Linux Mint
+Para la creación de esta máquina en mi caso le pondremos como nombre
+“Mint-cibera07” con una memoria RAM de “2048 MB” con “1” procesador dentro
+de la distribución “Debian” y lo meteremos dentro de nuestra red Nat en mi caso
+denominada haj.
+
+![alt text](image-2.png)
+
+### Creación Windows 7
+Para la creación de esta máquina en mi caso le pondremos como nombre0
+“win7-cibera07” con una memoria RAM de “1024 MB” con “1” procesador y lo
+meteremos dentro de nuestra red Nat en mi caso denominada haj
+
+![alt text](image-3.png)
+
+### Creación Windows 10
+Para la creación de esta máquina en mi caso le pondremos como nombre0
+“kali_linux_cibera07” con una memoria RAM de “3075 MB” con “2” procesadores
+y lo meteremos dentro de nuestra red Nat en mi caso denominada haj.
+
+![alt text](image-4.png)
+
+### Creación Windows Server
+Para la creación de esta máquina en mi caso le pondremos como nombre0
+“kali_linux_cibera07” con una memoria RAM de “3075 MB” con “2” procesadores
+y lo meteremos dentro de nuestra red Nat en mi caso denominada haj
+
+![alt text](image-5.png)
+
 ### Configuración de Máquinas Virtuales 
 ### Comunicación entre las diferentes máquinas 
 ### Configurar ip forwarding 
