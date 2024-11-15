@@ -47,8 +47,8 @@ de la distribución **Other Linux** y lo meteremos dentro de nuestra red Nat en 
 
 ### Creación Linux Mint
 Para la creación de esta máquina en mi caso le pondremos como nombre
-“Mint-cibera07” con una memoria RAM de “2048 MB” con “1” procesador dentro
-de la distribución “Debian” y lo meteremos dentro de nuestra red Nat en mi caso
+**Mint-cibera07** con una memoria RAM de **2048 MB** con **1** procesador dentro
+de la distribución **Debian** y lo meteremos dentro de nuestra red Nat en mi caso
 denominada haj.
 
 ![alt text](image-2.png)
