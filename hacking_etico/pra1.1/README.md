@@ -30,7 +30,7 @@ ello nos dirigiremos a **Archivo->Herramientas->Administrador de red->Red Nat**
 en la versión 7.1.4 de Virtualbox, la dirección ip que asignaremos en mi caso será
 **192.168.8.X**.
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 ## Creación de la máquinas Virtuales Creación de la máquinas Virtuales
 En este apartado prepararemos y crearemos las diferentes máquinas virtuales
@@ -38,7 +38,7 @@ que necesitaremos.
 ### Creación Kali Linux
 Para la creación de esta máquina en mi caso le pondremos como nombre **kali-cibera07** con una memoria RAM de **3075 MB** con **2** procesadores dentro de la distribución **Debian** y lo meteremos dentro de nuestra red nat en mi caso denominada **haj** y dentro de nuestra red interna denominada **cibera08**.
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 ### Creación Metasploitable
 Para la creación de esta máquina en mi caso le pondremos como nombre0
@@ -51,28 +51,28 @@ Para la creación de esta máquina en mi caso le pondremos como nombre
 de la distribución **Debian** y lo meteremos dentro de nuestra red Nat en mi caso
 denominada haj.
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 ### Creación Windows 7
 Para la creación de esta máquina en mi caso le pondremos como nombre0
 “win7-cibera07” con una memoria RAM de “1024 MB” con “1” procesador y lo
 meteremos dentro de nuestra red Nat en mi caso denominada haj
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 ### Creación Windows 10
 Para la creación de esta máquina en mi caso le pondremos como nombre0
 “kali_linux_cibera07” con una memoria RAM de “3075 MB” con “2” procesadores
 y lo meteremos dentro de nuestra red Nat en mi caso denominada haj.
 
-![alt text](image-4.png)
+![alt text](img/image-4.png)
 
 ### Creación Windows Server
 Para la creación de esta máquina en mi caso le pondremos como nombre0
 “kali_linux_cibera07” con una memoria RAM de “3075 MB” con “2” procesadores
 y lo meteremos dentro de nuestra red Nat en mi caso denominada haj
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 ### Configuración de Máquinas Virtuales 
 ### Comunicación entre las diferentes máquinas 
