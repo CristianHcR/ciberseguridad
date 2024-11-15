@@ -1,4 +1,4 @@
-# Práctica :Configuración de un laboratorio Virtualn de contención y comandos en ciberseguridad(I)
+# Configuración de un laboratorio Virtualn de contención y comandos en ciberseguridad(I)
 ## Objetivo 
 
 En esta práctica a grandes rasgo se preparará un laboratorio virtual con diferentes máquina preparadas dentro de una red conectada entre ellas.
@@ -9,7 +9,7 @@ En esta práctica a grandes rasgo se preparará un laboratorio virtual con difer
 
 ## Requisitos 
 
-Para la realización de esta práctica necesitaremos de algún programa de virtualización VBOX/VMWare y a continuación presento las máquina que necesitaremos:
+Para la realización de esta práctica necesitaremos de algún programa de virtualización **VBOX/VMWare** y a continuación presento las máquina que necesitaremos:
 
 | S.O            |  Versión              |  Nombre         |  Ip                    |
 |----------------|-----------------------|-----------------|------------------------|
@@ -21,6 +21,14 @@ Para la realización de esta práctica necesitaremos de algún programa de virtu
 | Windows        | Windows server 2022   | WinSer-Cibera08 | 10.0.8.6               |
 
 ## Preparación el entorno para uso de la Red Nat 
+
+Antes de crear las diferentes máquinas virtuales crearemos una red nat para
+ello nos dirigiremos a **Archivo->Herramientas->Administrador de red->Red Nat**
+en la versión 7.1.4 de Virtualbox, la dirección ip que asignaremos en mi caso será
+**192.168.8.X**.
+
+![alt text](image.png)
+
 ## Creación de la máquinas Virtuales 
 ### Creación Kali Linux
 ### Creación Metasploitable 
