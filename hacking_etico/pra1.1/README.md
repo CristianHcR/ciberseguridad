@@ -5,7 +5,8 @@ En esta práctica a grandes rasgo se preparará un laboratorio virtual con difer
 
 ## Indice
 
-
+1. [Requisitos](#requisitos)
+2. [Preparación del entorno para el uso de la Red Nat](#preparación-el-entorno-para-uso-de-la-red-nat)
 
 ## Requisitos 
 
@@ -29,13 +30,21 @@ en la versión 7.1.4 de Virtualbox, la dirección ip que asignaremos en mi caso 
 
 ![alt text](image.png)
 
-## Creación de la máquinas Virtuales 
+## Creación de la máquinas Virtuales Creación de la máquinas Virtuales
+En este apartado prepararemos y crearemos las diferentes máquinas virtuales
+que necesitaremos. 
 ### Creación Kali Linux
-### Creación Metasploitable 
-### Creación Linux Mint 
-### Creación Windows 7 
-### Creación Windows 10
-### Creación Windows Server 
+Para la creación de esta máquina en mi caso le pondremos como nombre **kali-cibera07** con una memoria RAM de **3075 MB** con **2** procesadores dentro de la distribución **Debian** y lo meteremos dentro de nuestra red nat en mi
+caso denominada **haj** y dentro de nuestra red interna denominada **cibera08**.
+
+![alt text](image-1.png)
+
+2.1 Creación Metasploitable
+Para la creación de esta máquina en mi caso le pondremos como nombre0
+“meta-cibera07” con una memoria RAM de “1024 MB” con “1” procesador dentro
+de la distribución “Other Linux”y lo meteremos dentro de nuestra red Nat en mi caso
+denominada haj
+
 ### Configuración de Máquinas Virtuales 
 ### Comunicación entre las diferentes máquinas 
 ### Configurar ip forwarding 
