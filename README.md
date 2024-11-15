@@ -2,7 +2,7 @@
 
 En este repositorio se abordará los diferentes apartados que se obetendrán.
 
-**Links**
+**Indice**
 
 1. [Hacking Ético](./hacking_etico/README.MD) 
 2. Análisis Forense
