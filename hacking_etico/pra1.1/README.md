@@ -49,6 +49,13 @@ Para la creación de esta máquina seguiremos las siguientes indicaciones:
 Para la creación de esta máquina en mi caso le pondremos como nombre0
 **meta-cibera07** con una memoria RAM de **1024 MB** con **1** procesador dentro
 de la distribución **Other Linux** y lo meteremos dentro de nuestra red Nat en mi caso denominada haj
+Para la creación de esta máquina seguiremos las siguientes indicaciones:
+- Nombre: **meta-cibera07** 
+- Memoria RAM: **3075 MB** 
+- Procesadores: **2** 
+- Distribución: **Debian** 
+- Red NAT: **haj**
+- Red Interna: **cibera08**
 
 ![alt text](img/image-1.png)
 
